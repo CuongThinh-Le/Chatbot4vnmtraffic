@@ -1,0 +1,38 @@
+# ========== ENV ==========
+.env
+.env.*
+chatbot_frontend/.env
+chatbot_frontend/.env.local
+
+# ========== Python ==========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+chatbot-env/
+.venv/
+venv/
+env/
+
+# ========== Node / Frontend ==========
+chatbot_frontend/node_modules/
+chatbot_frontend/.next/
+
+# ========== ML / AI ==========
+model/
+data/
+preprocessing_data/
+*.safetensors
+*.pkl
+*.pt
+*.bin
+
+# ========== Logs & lock ==========
+*.log
+*.lock
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
