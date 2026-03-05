@@ -77,10 +77,13 @@ Hệ thống tích hợp một giao diện đơn giản, trực quan:
 - Cho phép lưu lại lịch sử cuộc trò chuyện
 - Tra cứu đa ngôn ngữ: Tiếng Việt và Tiếng Anh
 
-![UI Demo](img/Vietnamese_interface.png)
-![UI Demo](img/English_interface.png)
+![UI Demo](<https://github.com/user-attachments/assets/3b326ddd-dbb7-449f-8042-c660b81926d1" />
+)
+![UI Demo](https://github.com/user-attachments/assets/52580baf-b3a4-40ad-8468-688c88921012" />
+)
 
 
 ---
+
 
 
