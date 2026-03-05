@@ -26,8 +26,7 @@ Cụ thể:
 
 ### ⚙️ Mô hình hệ thống:
 
-![Advanced RAG Architecture](<img width="1260" height="526" alt="image" src="https://github.com/user-attachments/assets/6c8185a1-f718-41c2-baf7-275419497c3a" />
-)
+![Advanced RAG Architecture](https://github.com/user-attachments/assets/6c8185a1-f718-41c2-baf7-275419497c3a)
 
 ## 🔍 Quy Trình Triển Khai
 
@@ -83,4 +82,5 @@ Hệ thống tích hợp một giao diện đơn giản, trực quan:
 
 
 ---
+
 
